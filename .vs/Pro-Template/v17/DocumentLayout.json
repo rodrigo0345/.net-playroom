@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rural\\source\\repos\\Pro-Template\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1F1FF4-48AA-47B3-9C91-C3091595A9CA}|Pro-Template\\Pro-Template.csproj|c:\\users\\rural\\source\\repos\\pro-template\\pro-template\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1F1FF4-48AA-47B3-9C91-C3091595A9CA}|Pro-Template\\Pro-Template.csproj|solutionrelative:pro-template\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1F1FF4-48AA-47B3-9C91-C3091595A9CA}|Pro-Template\\Pro-Template.csproj|c:\\users\\rural\\source\\repos\\pro-template\\pro-template\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1F1FF4-48AA-47B3-9C91-C3091595A9CA}|Pro-Template\\Pro-Template.csproj|solutionrelative:pro-template\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1F1FF4-48AA-47B3-9C91-C3091595A9CA}|Pro-Template\\Pro-Template.csproj|c:\\users\\rural\\source\\repos\\pro-template\\pro-template\\models\\customuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1F1FF4-48AA-47B3-9C91-C3091595A9CA}|Pro-Template\\Pro-Template.csproj|solutionrelative:pro-template\\models\\customuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1F1FF4-48AA-47B3-9C91-C3091595A9CA}|Pro-Template\\Pro-Template.csproj|c:\\users\\rural\\source\\repos\\pro-template\\pro-template\\models\\customrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1F1FF4-48AA-47B3-9C91-C3091595A9CA}|Pro-Template\\Pro-Template.csproj|solutionrelative:pro-template\\models\\customrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1F1FF4-48AA-47B3-9C91-C3091595A9CA}|Pro-Template\\Pro-Template.csproj|c:\\users\\rural\\source\\repos\\pro-template\\pro-template\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E1F1FF4-48AA-47B3-9C91-C3091595A9CA}|Pro-Template\\Pro-Template.csproj|solutionrelative:pro-template\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1F1FF4-48AA-47B3-9C91-C3091595A9CA}|Pro-Template\\Pro-Template.csproj|c:\\users\\rural\\source\\repos\\pro-template\\pro-template\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9E1F1FF4-48AA-47B3-9C91-C3091595A9CA}|Pro-Template\\Pro-Template.csproj|solutionrelative:pro-template\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1F1FF4-48AA-47B3-9C91-C3091595A9CA}|Pro-Template\\Pro-Template.csproj|c:\\users\\rural\\source\\repos\\pro-template\\pro-template\\pro-template.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9E1F1FF4-48AA-47B3-9C91-C3091595A9CA}|Pro-Template\\Pro-Template.csproj|solutionrelative:pro-template\\pro-template.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1F1FF4-48AA-47B3-9C91-C3091595A9CA}|Pro-Template\\Pro-Template.csproj|c:\\users\\rural\\source\\repos\\pro-template\\pro-template\\pro-template.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9E1F1FF4-48AA-47B3-9C91-C3091595A9CA}|Pro-Template\\Pro-Template.csproj|solutionrelative:pro-template\\pro-template.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rural\\source\\repos\\Pro-Template\\Pro-Template\\appsettings.json",
+              "RelativeDocumentMoniker": "Pro-Template\\appsettings.json",
+              "ToolTip": "C:\\Users\\rural\\source\\repos\\Pro-Template\\Pro-Template\\appsettings.json",
+              "RelativeToolTip": "Pro-Template\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-30T22:55:14.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pro-Template.http",
+              "DocumentMoniker": "C:\\Users\\rural\\source\\repos\\Pro-Template\\Pro-Template\\Pro-Template.http",
+              "RelativeDocumentMoniker": "Pro-Template\\Pro-Template.http",
+              "ToolTip": "C:\\Users\\rural\\source\\repos\\Pro-Template\\Pro-Template\\Pro-Template.http",
+              "RelativeToolTip": "Pro-Template\\Pro-Template.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-03-30T22:46:15.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\rural\\source\\repos\\Pro-Template\\Pro-Template\\Dockerfile",
+              "RelativeDocumentMoniker": "Pro-Template\\Dockerfile",
+              "ToolTip": "C:\\Users\\rural\\source\\repos\\Pro-Template\\Pro-Template\\Dockerfile",
+              "RelativeToolTip": "Pro-Template\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-30T22:46:15.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomRole.cs",
+              "DocumentMoniker": "C:\\Users\\rural\\source\\repos\\Pro-Template\\Pro-Template\\Models\\CustomRole.cs",
+              "RelativeDocumentMoniker": "Pro-Template\\Models\\CustomRole.cs",
+              "ToolTip": "C:\\Users\\rural\\source\\repos\\Pro-Template\\Pro-Template\\Models\\CustomRole.cs",
+              "RelativeToolTip": "Pro-Template\\Models\\CustomRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T22:32:18.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomUser.cs",
+              "DocumentMoniker": "C:\\Users\\rural\\source\\repos\\Pro-Template\\Pro-Template\\Models\\CustomUser.cs",
+              "RelativeDocumentMoniker": "Pro-Template\\Models\\CustomUser.cs",
+              "ToolTip": "C:\\Users\\rural\\source\\repos\\Pro-Template\\Pro-Template\\Models\\CustomUser.cs",
+              "RelativeToolTip": "Pro-Template\\Models\\CustomUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T22:29:44.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pro-Template",
+              "DocumentMoniker": "C:\\Users\\rural\\source\\repos\\Pro-Template\\Pro-Template\\Pro-Template.csproj",
+              "RelativeDocumentMoniker": "Pro-Template\\Pro-Template.csproj",
+              "ToolTip": "C:\\Users\\rural\\source\\repos\\Pro-Template\\Pro-Template\\Pro-Template.csproj",
+              "RelativeToolTip": "Pro-Template\\Pro-Template.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-30T22:29:27.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rural\\source\\repos\\Pro-Template\\Pro-Template\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Pro-Template\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\rural\\source\\repos\\Pro-Template\\Pro-Template\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Pro-Template\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T22:27:09.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rural\\source\\repos\\Pro-Template\\Pro-Template\\Program.cs",
+              "RelativeDocumentMoniker": "Pro-Template\\Program.cs",
+              "ToolTip": "C:\\Users\\rural\\source\\repos\\Pro-Template\\Pro-Template\\Program.cs",
+              "RelativeToolTip": "Pro-Template\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T22:25:21.272Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
