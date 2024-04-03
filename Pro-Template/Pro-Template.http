@@ -1,0 +1,6 @@
+@Pro_Template_HostAddress = http://localhost:5249
+
+GET {{Pro_Template_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

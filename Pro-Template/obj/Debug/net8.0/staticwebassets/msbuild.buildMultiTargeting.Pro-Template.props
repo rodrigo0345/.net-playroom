@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Pro-Template.props" />
+</Project>
